@@ -1,5 +1,5 @@
 # Instagram-Username-Generator
-This Pythob project will help you to create a instagram username with ease.....
+This Python project will help you to create a instagram username with ease.....
 
 How to create:
 Step 1: Copy the code from main.py
